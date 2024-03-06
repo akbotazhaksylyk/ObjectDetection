@@ -1,9 +1,9 @@
-## Object Detection 
+# Object Detection 
 Created by: Akbota Zhaksylyk and Altynay Ashimova
 
 YouTube video: https://youtu.be/etziTiUw6Qk
 
-# Introduction
+## Introduction
 Problem:
   Object detection is a crucial task in computer vision, with applications ranging from autonomous vehicles and surveillance systems to augmented reality and medical imaging. The goal is to automatically identify and locate objects of interest within images or video frames.
 Traditionally, object detection relied on handcrafted features and machine learning algorithms. However, these methods often struggled with variations in object appearance, scale, orientation, and occlusions.
@@ -15,7 +15,7 @@ Literature review:
 Current work (description of the work):
   The idea proposed in this project is to create an innovative software solution designed for object recognition with a primary focus on improving human-computer interaction. Using advanced computer vision techniques, this solution aims to accurately detect and interpret the listed objects. The ultimate goal is to develop a user-friendly interface that improves the efficiency of human-computer interaction, ultimately closing the gap between technology and human communication.
 
-# Data and Methods
+## Data and Methods
 Information about the data:
   The primary dataset utilized in our project is derived from the YOLO model, specifically the yolov8n.pt model file. The YOLO (You Only Look Once) model is a widely employed object detection algorithm renowned for its real-time processing capabilities. Our model file yolov8n.pt represents a trained instance of the YOLO architecture, containing learned parameters that enable the detection of various objects within images or video streams.
 The yolov8n.pt model file is located within the directory path: ../../Library/Application Support/JetBrains/PyCharm2023.3/scratches/yolo-Weights/. This dataset serves as the foundation for our object detection tasks, allowing us to identify and localize objects of interest within input media streams.
@@ -28,7 +28,7 @@ Within our application, the YOLO model is loaded and instantiated using the yolo
 Furthermore, our system incorporates a predefined set of object classes and corresponding colors to enhance the visual representation of detected objects. This allows users to easily interpret and understand the output of the object detection process.
 In summary, the YOLO object detection model serves as the cornerstone of our ML/DL-based object detection system, enabling efficient and accurate detection of objects within live video streams. Its speed, accuracy, and versatility make it well-suited for a wide range of applications, including surveillance, robotics, and augmented reality.
 
-# Results:
+## Results:
   To check the final result of the model, we tested it on improvised objects such as a phone, laptop, bottle, etc. Based on the results obtained, it can be seen that the model is working properly and fully performs its functions
 
 Critical Review of Results:
@@ -38,7 +38,7 @@ Moreover, our project serves as an excellent introduction to the field of machin
 Furthermore, our project lays a solid foundation for future endeavors in the realm of ML/DL-based object detection systems. The modular architecture of our system, coupled with the versatility of the YOLO model, allows for seamless integration of additional features and enhancements. This flexibility opens up avenues for further exploration and refinement, potentially leading to the development of more advanced and specialized object detection systems tailored to specific domains or applications.
 In conclusion, our project represents a successful endeavor in implementing real-time object detection capabilities within a web-based environment. It serves as a commendable starting point for individuals seeking to delve into the field of ML/DL and lays the groundwork for future projects and innovations in the realm of computer vision and artificial intelligence.
 
-# Sources:
+## Sources:
 YOLOv8
 model - Ultralytics YOLOv8 Docs
 What Is Object Detection? - MATLAB & Simulink - MathWorks

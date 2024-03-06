@@ -39,9 +39,7 @@ Furthermore, our project lays a solid foundation for future endeavors in the rea
 In conclusion, our project represents a successful endeavor in implementing real-time object detection capabilities within a web-based environment. It serves as a commendable starting point for individuals seeking to delve into the field of ML/DL and lays the groundwork for future projects and innovations in the realm of computer vision and artificial intelligence.
 
 ## Sources:
-YOLOv8
-model - Ultralytics YOLOv8 Docs
-What Is Object Detection? - MATLAB & Simulink - MathWorks
-Real-time Object Detection Using Deep Learning
-
-
+YOLOv8 - https://docs.ultralytics.com/models/yolov8/
+model - Ultralytics YOLOv8 Docs - https://www.google.com/search?q=yolo-Weights%2Fyolov8n.pt&rlz=1C5CHFA_enKZ1094KZ1094&oq=yolo-Weights%2Fyolov8n.pt&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQRRg60gEHNzIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#:~:text=model%20%2D%20Ultralytics%20YOLOv8%20Docs
+What Is Object Detection? - MATLAB & Simulink - MathWorks - https://www.mathworks.com/discovery/object-detection.html#:~:text=Object%20detection%20algorithms%20typically%20leverage,this%20intelligence%20using%20a%20computer.
+Real-time Object Detection Using Deep Learning - https://www.researchgate.net/publication/371600210_Real-time_Object_Detection_Using_Deep_Learning
